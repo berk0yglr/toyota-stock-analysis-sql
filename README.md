@@ -21,9 +21,9 @@ Bu projede veri manipülasyonu ve ileri seviye analiz için aşağıdaki SQL kon
 ## 🚀 Kurulum ve Kullanım
 1. Bu repodaki `.sql` dosyasını indirin.
 2. SQL Server Management Studio  üzerinden veri tabanınıza bağlanın.
-3. Kendi veri tabanı adınıza göre `USE [VeritabaniAdiniz]` kısmını güncelleyerek sorguları çalıştırabilirsiniz.
+3. Kendi veri tabanı adınıza göre `USE [Veritabaniİsminiz]` kısmını güncelleyerek sorguları çalıştırabilirsiniz.
 
 ---
-## 👨‍💻 Yazar
-**Berkay Güler** - Yönetim Bilişim Sistemleri  Öğrencisi & Veri Analisti Adayı  
-GitHub: [@berk0yglr](https://github.com/berk0yglr)
+## 👨‍💻 Yapan
+**Berkay Güler** - Yönetim Bilişim Sistemleri Öğrencisi Ve Veri Analisti Adayı  
+
