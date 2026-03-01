@@ -16,7 +16,7 @@ Bu projede veri manipülasyonu ve ileri seviye analiz için aşağıdaki SQL kon
 * **Matematiksel Fonksiyonlar:** `SUM`, `AVG`
 * **Veri Temizleme ve Formatlama:** `CAST` ile ondalık basamak optimizasyonu
 * **Geçici Tablolar:** `WITH`  ile karmaşık sorguların sadeleştirilmesi
-* **Pencere Fonksiyonları (Window Functions):** `LAG()` ile önceki ay kıyaslamaları, `OVER(ROWS BETWEEN...)` ile hareketli ortalama hesaplamaları
+* **Pencere Fonksiyonları :** `LAG()` ile önceki ay kıyaslamaları, `OVER(ROWS BETWEEN...)` ile hareketli ortalama hesaplamaları
 
 ## 🚀 Kurulum ve Kullanım
 1. Bu repodaki `.sql` dosyasını indirin.
