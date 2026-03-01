@@ -5,8 +5,8 @@ Bu proje, Toyota'nın 1980'den 2026'ya kadar olan tarihsel borsa verilerini (OHL
 ## 📊 Proje Hakkında
 Veri analizi süreçlerinde SQL'in analitik gücünü göstermek amacıyla hazırlanmıştır. Veri seti üzerinde temel sorgulama işlemlerinin yanı sıra **Window Functions** ve **CTE (Common Table Expressions)** gibi ileri seviye SQL teknikleri kullanılarak derinlemesine içgörüler (insights) elde edilmiştir.
 
-## 💡 Öne Çıkan İçgörüler (Insights)
-* **2010 Hacim Patlaması:** Tüm zamanların en yüksek işlem hacmine sahip ilk 10 gününün 8'i Şubat 2010'a aittir. Özellikle 3 Şubat 2010'da 18.5 milyonluk rekor bir işlem adedi görülmüştür. Bu durum pazardaki büyük bir dalgalanmaya işaret etmektedir.
+## 💡 Öne Çıkan İçgörüler 
+* 2010 Hacim Patlaması: Tüm zamanların en yüksek işlem hacmine sahip ilk 10 gününün 8'i Şubat 2010'a aittir. Özellikle 3 Şubat 2010'da 18.5 milyonluk rekor bir işlem adedi görülmüştür. Bu durum pazardaki büyük bir dalgalanmaya işaret etmektedir.
 * **2024 Altın Çağı:** Ortalama fiyatlar baz alındığında, hisse senedinin tarihi zirvesini 2024 yılında (ortalama 1.7 milyon seviyelerinde) yaptığı tespit edilmiştir.
 * **Aylık ve Günlük Trendler:** Geliştirilen analitik sorgularla aydan aya büyüme (MoM) oranları ve 30 günlük hareketli ortalamalar (Moving Average) hesaplanarak fiyatların yönü izlenmiştir.
 
